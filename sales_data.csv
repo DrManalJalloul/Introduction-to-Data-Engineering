@@ -1,0 +1,5 @@
+date,product_id,sales_amount,store_location
+2023-09-01,P001,500,New York
+2023-09-02,P002,300,Los Angeles
+2023-09-03,P003,450,Chicago
+2023-09-04,P001,600,New York
